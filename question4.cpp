@@ -1,3 +1,4 @@
+// pushback is used to store the value as duplicate 
 #include<bits/stdc++.h>
 using namespace std;
  
